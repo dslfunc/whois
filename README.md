@@ -1,0 +1,2 @@
+# whois
+whois.dslfunc.com
